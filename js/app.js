@@ -64,7 +64,7 @@ $(document).on("keyup",function(event){
 
 $(".volume-control").on("click",function()
 {
-	soundIsOn = !soundIsOn;
+	// soundIsOn = !soundIsOn;
 	$('.volume-control').toggleClass("fa-volume-up fa-volume-off");
 });
 
