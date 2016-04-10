@@ -26,10 +26,10 @@ em {
 .hadouken, .ryu-cool, .ryu-ready, .ryu-still, .ryu-throwing {
 	background-repeat: no-repeat;
 }
-	
+
 .hadouken {
 	background-image: url('../images/hadouken.gif');
-	width: 156px;	
+	width: 156px;
 	height: 90px;
 	position: relative;
 	top: 167px;
@@ -50,7 +50,7 @@ em {
 
 .ryu-ready, .ryu-throwing, .ryu-cool {
 	display: none;
-}	
+}
 
 .ryu-cool {
 	background-image: url('../images/ryu-cool.gif');
